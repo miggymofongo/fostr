@@ -1,0 +1,52 @@
+
+/*
+  This file is used for all of your global styles and CSS variables.
+  Check here https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties for more info on using CSS variables.
+*/
+/*
+========================================
+Global
+========================================
+*/
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: verdana, arial, sans-serif, helvetica;
+  background-color: #e5e5e5;
+  font-size: 8pt;
+  margin: 0;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:link {
+  color: #003399;
+}
+
+a:visited {
+  color: #003399;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #cc0000;
+}
+
+h2 {
+  font-size: 9pt;
+  margin: 0;
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.3;
+}
