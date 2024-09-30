@@ -192,10 +192,7 @@ Navigation Bar
         <ul>
           <li><a href="#">Home</a></li>
           <li><a href="#">Browse</a></li>
-          <li><a href="#">Search</a></li>
-          <li><a href="#">Invite</a></li>
           <li><a href="#">Film</a></li>
-          <li><a href="#">Mail</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Favorites</a></li>
           <li><a href="#">Forum</a></li>
